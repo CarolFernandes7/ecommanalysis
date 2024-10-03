@@ -1,0 +1,5 @@
+event_name,platform,revenue,sessions,country,date
+purchase,website,100,50,US,2024-09-30
+session_start,mobile_app,0,200,UK,2024-09-30
+add_to_cart,website,0,150,US,2024-09-30
+purchase,mobile_app,75,120,Canada,2024-09-30
